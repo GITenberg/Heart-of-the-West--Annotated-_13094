@@ -1,0 +1,40 @@
+_repo: Heart-of-the-West--Annotated-_13094
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Loewenstein, Joseph E.
+    gutenberg_agent_id: '5053'
+    url: http://www.gutenberg.org/2009/agents/5053
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+description: ''
+gutenberg_issued: '2004-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13094'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'American fiction -- 20th century'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+tableOfContents: Hearts and Crosses -- The Ransom of Mack -- Telemachus, Friend --
+  The Handbook of Hymen -- The Pimienta Pancakes -- Seats of the Haughty -- Hygeia
+  at the Solito -- An Afternoon Miracle -- The Higher Abdication -- Cupid a la Carte
+  -- The Caballero's Way -- The Sphinx Apple -- The Missing Chord -- A Call Loan --
+  The Princess and the Puma -- The Indian Summer of Dry Valley Johnson -- Christmas
+  by Injunction -- A Chaparral Prince -- The Reformation of Calliope.
+title: Heart of the West [Annotated]
+url: http://www.gutenberg.org/ebooks/13094
