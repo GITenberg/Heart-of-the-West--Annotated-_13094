@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/634
     wikipedia: http://en.wikipedia.org/wiki/O._Henry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13094#Heart-of-the-West--Annotated-
 gutenberg_issued: '2004-08-03'
 gutenberg_type: Text
 identifiers:
